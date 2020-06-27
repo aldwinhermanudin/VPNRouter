@@ -1,0 +1,1 @@
+node-red ALL = NOPASSWD: /opt/lux/add-ssh-rules.sh, /sbin/reboot, /sbin/poweroff 
